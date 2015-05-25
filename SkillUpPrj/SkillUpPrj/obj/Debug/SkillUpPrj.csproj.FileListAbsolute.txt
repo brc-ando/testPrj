@@ -1,0 +1,7 @@
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj\bin\SkillUpPrj.dll
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj\bin\SkillUpPrj.pdb
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj\obj\Debug\SkillUpPrj.csprojResolveAssemblyReference.cache
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj\obj\Debug\SkillUpPrj.dll
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj\obj\Debug\SkillUpPrj.pdb
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj\obj\Debug\SkillUpPrj.Properties.Resources.resources
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj\obj\Debug\SkillUpPrj.csproj.GenerateResource.Cache

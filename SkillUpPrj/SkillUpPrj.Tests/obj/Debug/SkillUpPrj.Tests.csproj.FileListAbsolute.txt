@@ -1,0 +1,8 @@
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\bin\Debug\SkillUpPrj.Tests.dll.config
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\bin\Debug\SkillUpPrj.Tests.dll
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\bin\Debug\SkillUpPrj.Tests.pdb
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\bin\Debug\SkillUpPrj.dll
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\bin\Debug\SkillUpPrj.pdb
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\obj\Debug\SkillUpPrj.Tests.csprojResolveAssemblyReference.cache
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\obj\Debug\SkillUpPrj.Tests.dll
+D:\仕事箱\WORK_ando\bk\brython_test\SkillUpPrj\SkillUpPrj.Tests\obj\Debug\SkillUpPrj.Tests.pdb
